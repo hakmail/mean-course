@@ -33,6 +33,9 @@ npm install --save--dev nodemon
 npm install --save body-parser
 npm install --save mongoose
 npm install --save multer
+npm install --save mongoose-unique-validator
+npm install --save bcrypt
+npm install --save jsonwebtoken
 
 ## Run below command to run backend
 npm run start:server
